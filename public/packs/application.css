@@ -1,0 +1,5 @@
+/* app/javascript/stylesheets/application.scss */
+.chat-room {
+  background-color: black;
+  height: 100vh;
+}
